@@ -15,8 +15,8 @@ We will first do an analysis of data using correlation matrix to find out the va
 
 # Contribution
 - Lau Yong Jie - Data preparation, analysis, EDA + K-Means
-- Palaniswamy Tarun Kumar - K-Means EDA, Regression, Slides & Video
-- Putluru Nidhi - K-Means EDA, Regression, Slides & Video
+- Palaniswamy Tarun Kumar - K-Means EDA, regression, slides & video
+- Putluru Nidhi - K-Means EDA, regression, slides & video
 
 # References
 - https://www.kaggle.com/datasets/rsrishav/world-population
