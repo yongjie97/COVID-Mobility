@@ -12,7 +12,7 @@ We will first do an analysis of data using correlation matrix to find out the va
 - Decision Tree Regressor
 
 # Contribution
-- Lau Yong Jie - Data preparation, analysis, EDA + K-Means, Regression EDA
+- Lau Yong Jie - Data preparation, analysis, K-Means EDA + PCA & K-Means, regression EDA
 - Palaniswamy Tarun Kumar - K-Means EDA, regression, slides & video
 - Putluru Nidhi - K-Means EDA, regression, slides & video
 
