@@ -14,7 +14,7 @@ We will first do an analysis of data using correlation matrix to find out the va
 - MLP Regression
 
 # Contribution
-- Lau Yong Jie - Cleaning data, analysis, EDA + K-Means
+- Lau Yong Jie - Data preparation, analysis, EDA + K-Means
 - Palaniswamy Tarun Kumar - K-Means EDA, Regression, Slides & Video
 - Putluru Nidhi - K-Means EDA, Regression, Slides & Video
 
