@@ -10,3 +10,13 @@ In recent years, mobility of each country has seen drastic changes due to COVID-
 - Stochastic Gradient Descent
 - Decision Tree Regressor
 - MLP Regression
+
+# Contribution
+Lau Yong Jie - Cleaning data, analysis, EDA + K-Means
+Palaniswamy Tarun Kumar - K-Means EDA, Regression
+Putluru Nidhi - K-Means EDA, Regression
+
+# References
+https://www.kaggle.com/datasets/rsrishav/world-population
+https://github.com/worldbank/covid-mobile-data
+https://seaborn.pydata.org/
