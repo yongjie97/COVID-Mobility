@@ -17,6 +17,6 @@ In recent years, mobility of each country has seen drastic changes due to COVID-
 - Putluru Nidhi - K-Means EDA, Regression
 
 # References
-https://www.kaggle.com/datasets/rsrishav/world-population
-https://github.com/worldbank/covid-mobile-data
-https://seaborn.pydata.org/
+- https://www.kaggle.com/datasets/rsrishav/world-population
+- https://github.com/worldbank/covid-mobile-data
+- https://seaborn.pydata.org/
