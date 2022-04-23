@@ -8,10 +8,8 @@ We will first do an analysis of data using correlation matrix to find out the va
 - K-Means Clustering
 - Standard/MinMax Scaler
 - Linear Regression
-- Support Vector Regression
 - Stochastic Gradient Descent
 - Decision Tree Regressor
-- MLP Regression
 
 # Contribution
 - Lau Yong Jie - Data preparation, analysis, EDA + K-Means
