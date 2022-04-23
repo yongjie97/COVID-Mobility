@@ -12,9 +12,9 @@ In recent years, mobility of each country has seen drastic changes due to COVID-
 - MLP Regression
 
 # Contribution
-Lau Yong Jie - Cleaning data, analysis, EDA + K-Means
-Palaniswamy Tarun Kumar - K-Means EDA, Regression
-Putluru Nidhi - K-Means EDA, Regression
+- Lau Yong Jie - Cleaning data, analysis, EDA + K-Means
+- Palaniswamy Tarun Kumar - K-Means EDA, Regression
+- Putluru Nidhi - K-Means EDA, Regression
 
 # References
 https://www.kaggle.com/datasets/rsrishav/world-population
