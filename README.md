@@ -1,7 +1,20 @@
 # Predict Mobility during COVID-19
-In recent years, mobility of each country has seen drastic changes due to COVID-19. Let us predict the factors that affect mobility the most. Every country have different variables (e.g. population density, vaccination rate). How can we group country that are similar together? By doing so, can we improve the prediction accuracy?
+In recent years, the mobility of each country has seen drastic changes due to COVID-19. Let us predict the factors that affect mobility the most. Every country has different variables (e.g. population density, vaccination rate). How can we group countries that are similar together? By doing so, can we improve the prediction accuracy?
 
-We will first do an analysis of data using correlation matrix to find out the variables that affect mobility the most. Next, clustering of country will be done to improve the analysis of data for each cluster.
+Due to the size of the data (more than 60 columns and 160k rows), we will first use a correlation matrix to identify the variables that affect mobility the most. From observing the correlation matrix, we can identify these variables that will affect mobility the most:
+1. icu_patients_per_million
+2. hosp_patients
+3. total_cases
+4. people_fully_vaccinated
+5. new_cases
+6. aged_70_older
+7. stringency index
+
+As there is a large difference in disparity across data, K-Means clustering will be used to group similar countries together. These variables will be used in aid of clustering: gdp_per_capita, human_development_index, life_expectancy and population_density. We will first apply PCA to find the optimum amount of clusters necessary to categorise countries.
+
+After that, analysis for each of the variables identified using the correlation matrix will be analysed according to clusters to find valuable insights for each data/cluster.
+
+Finally, the variables will be used to train multiple regression model in order to find the highest accuracy model for mobility prediction.
 
 # Tools Used
 - Principal component analysis
@@ -12,9 +25,9 @@ We will first do an analysis of data using correlation matrix to find out the va
 - Decision Tree Regressor
 
 # Contribution
-- Lau Yong Jie - Data preparation, analysis, K-Means EDA + PCA & K-Means, regression EDA
-- Palaniswamy Tarun Kumar - K-Means EDA, regression, slides & video
-- Putluru Nidhi - K-Means EDA, regression, slides & video
+- Lau Yong Jie - Data preparation/cleaning, analysis, exploratory data analysis, clustering, regression
+- Palaniswamy Tarun Kumar - exploratory data analysis, regression, slides & video
+- Putluru Nidhi - exploratory data analysis, regression, slides & video
 
 # References
 - https://www.kaggle.com/datasets/rsrishav/world-population
