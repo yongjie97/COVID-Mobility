@@ -1,5 +1,6 @@
 # Predicting Mobility during COVID-19
 In recent years, the mobility of each country has seen drastic changes due to COVID-19. Let us predict the factors that affect mobility the most. Every country has different variables (e.g. population density, vaccination rate). How can we group countries that are similar together? By doing so, can we improve the prediction accuracy?
+## Presentation Slides: https://docs.google.com/presentation/d/1p6TqU_QXVuveZMM--bLG5CowGQrMuICpUm6TMmV3n1Q
 
 # Project Overview
 Due to the size of the data (more than 60 columns and 160k rows), we will first use a correlation matrix to identify the variables that affect mobility the most. From observing the correlation matrix, we identified these variables that is affecting mobility the most:
