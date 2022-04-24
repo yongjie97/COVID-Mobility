@@ -13,7 +13,8 @@ Due to the size of the data (more than 60 columns and 160k rows), we will first 
 As there is a large difference in disparity across data, K-Means clustering will be used to group similar countries together. These variables will be used in aid of clustering: 
 1. gdp_per_capita
 2. human_development_index
-3. life_expectancy and population_density. 
+3. life_expectancy
+4. population_density. 
 
 Principal component analysis (PCA) will be applied to find the optimum amount of clusters necessary to categorise countries. After that, analysis for each of the variables identified using the correlation matrix will be analysed according to clusters to find valuable insights for each data/cluster.
 
