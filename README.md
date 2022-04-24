@@ -17,7 +17,9 @@ As there are a large differences in disparity across data, K-Means clustering wi
 
 Principal component analysis (PCA) will be applied to find the optimum amount of clusters necessary to categorise countries. After that, analysis for each of the variables identified using the correlation matrix will be analysed according to clusters to find valuable insights for each data/cluster.
 
-Finally, the variables will be used to train multiple regression model in order to find the highest accuracy model for mobility prediction.
+From our analysis for each cluster, some variables have the ability to affect mobility in one cluster but not another. A heatmap matrix is then used to show the correlation of how the 5 variables affect mobility among each cluster. For example, stringency affects mobility in cluster 1 but not cluster 2. Finally, these variables will be used to train multiple regression model in order to find the highest accuracy model for mobility prediction.
+
+In the end, we conclude that Decision Tree Regressor is the best model with accuracy up to at least 90% for mobility prediction.
 
 # Tools Used
 - Principal component analysis
