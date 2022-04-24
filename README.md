@@ -29,8 +29,8 @@ Finally, the variables will be used to train multiple regression model in order 
 
 # Contribution
 - Lau Yong Jie - Data preparation/cleaning, analysis, exploratory data analysis, clustering, regression
-- Palaniswamy Tarun Kumar - exploratory data analysis, analysis, regression, slides & video
-- Putluru Nidhi - exploratory data analysis, analysis, regression, slides & video
+- Palaniswamy Tarun Kumar - analysis, exploratory data analysis, regression, slides & video
+- Putluru Nidhi - analysis, exploratory data analysis, regression, slides & video
 
 # References
 - https://www.kaggle.com/datasets/rsrishav/world-population
