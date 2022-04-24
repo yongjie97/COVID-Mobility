@@ -37,3 +37,4 @@ Finally, the variables will be used to train multiple regression model in order 
 - https://github.com/worldbank/covid-mobile-data
 - https://seaborn.pydata.org/
 - https://medium.com/analytics-vidhya/implementation-of-principal-component-analysis-pca-in-k-means-clustering-b4bc0aa79cb6
+- https://www.datatechnotes.com/2020/09/regression-example-with-sgdregressor-in-python.html
