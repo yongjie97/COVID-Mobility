@@ -36,3 +36,4 @@ Finally, the variables will be used to train multiple regression model in order 
 - https://www.kaggle.com/datasets/rsrishav/world-population
 - https://github.com/worldbank/covid-mobile-data
 - https://seaborn.pydata.org/
+- https://medium.com/analytics-vidhya/implementation-of-principal-component-analysis-pca-in-k-means-clustering-b4bc0aa79cb6
