@@ -4,12 +4,10 @@ In recent years, the mobility of each country has seen drastic changes due to CO
 # Project Overview
 Due to the size of the data (more than 60 columns and 160k rows), we will first use a correlation matrix to identify the variables that affect mobility the most. From observing the correlation matrix, we can identify these variables that will affect mobility the most:
 1. icu_patients_per_million
-2. hosp_patients
-3. total_cases
-4. people_fully_vaccinated
-5. new_cases
-6. aged_70_older
-7. stringency index
+2. people_vaccinated_per_hundred
+3. cardiovasc_death_rate
+4. aged_70_older
+5. stringency index
 
 As there is a large difference in disparity across data, K-Means clustering will be used to group similar countries together. These variables will be used in aid of clustering: 
 1. gdp_per_capita
