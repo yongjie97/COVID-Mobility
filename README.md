@@ -10,9 +10,12 @@ Due to the size of the data (more than 60 columns and 160k rows), we will first 
 6. aged_70_older
 7. stringency index
 
-As there is a large difference in disparity across data, K-Means clustering will be used to group similar countries together. These variables will be used in aid of clustering: gdp_per_capita, human_development_index, life_expectancy and population_density. We will first apply PCA to find the optimum amount of clusters necessary to categorise countries.
+As there is a large difference in disparity across data, K-Means clustering will be used to group similar countries together. These variables will be used in aid of clustering: 
+1. gdp_per_capita
+2. human_development_index
+3. life_expectancy and population_density. 
 
-After that, analysis for each of the variables identified using the correlation matrix will be analysed according to clusters to find valuable insights for each data/cluster.
+Principal component analysis (PCA) will be applied to find the optimum amount of clusters necessary to categorise countries. After that, analysis for each of the variables identified using the correlation matrix will be analysed according to clusters to find valuable insights for each data/cluster.
 
 Finally, the variables will be used to train multiple regression model in order to find the highest accuracy model for mobility prediction.
 
