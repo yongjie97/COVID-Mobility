@@ -1,4 +1,4 @@
-# Predict Mobility during COVID-19
+# Predicting Mobility during COVID-19
 In recent years, the mobility of each country has seen drastic changes due to COVID-19. Let us predict the factors that affect mobility the most. Every country has different variables (e.g. population density, vaccination rate). How can we group countries that are similar together? By doing so, can we improve the prediction accuracy?
 
 # Project Overview
