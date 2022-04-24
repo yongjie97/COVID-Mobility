@@ -9,7 +9,7 @@ Due to the size of the data (more than 60 columns and 160k rows), we will first 
 4. aged_70_older
 5. stringency_index
 
-As there are a large differences in disparity across data, K-Means clustering will be used to group similar countries together. These variables will then be used in aid of clustering: 
+As there is a large difference in disparity across data, K-Means clustering will be used to group similar countries together. These variables will then be used in aid of clustering: 
 1. gdp_per_capita
 2. human_development_index
 3. life_expectancy
